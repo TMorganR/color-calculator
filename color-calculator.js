@@ -38,15 +38,3 @@ if (userChoice1 === "two"){
         console.log("error")
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
